@@ -1,0 +1,632 @@
+#EXTM3U
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC one FHD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58418
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",UK: BBC two HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58419
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: CBBC three FHD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58420
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",UK: BBC 4 HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58421
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC entertainment HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58422
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC alba HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58423
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC World News HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58424
+#EXTINF:0 tvg-id="More4.uk" group-title="Channels",UK: More4
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58425
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",UK: CHANNEL 5
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58426
+#EXTINF:0 tvg-id="RTENewsNow.ie" group-title="Channels",UK: RTE NEWS
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58427
+#EXTINF:0 tvg-id="RTE2.ie" group-title="Channels",UK: RTE Two
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58428
+#EXTINF:0 tvg-id="RTE1.ie" group-title="Channels",UK: RTE One
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58429
+#EXTINF:0 tvg-id="RTEjr.uk" group-title="Channels",UK: RTE Junior
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58430
+#EXTINF:0 tvg-id="3e.ie" group-title="Channels",UK: 3E Ireland
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58431
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",UK: E!
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58432
+#EXTINF:0 tvg-id="ITVEncore.uk" group-title="Channels",UK: Itv Encore
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58433
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",UK: ITV 1
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58434
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV 2 HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58435
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",UK: ITV 3
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58436
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",UK: ITV 4
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58437
+#EXTINF:0 tvg-id="W.uk" group-title="Channels",UK: Watch
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58438
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: TLC-IRELAND
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58439
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: SYFY
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58440
+#EXTINF:0 tvg-id="FX.uk" group-title="Channels",UK: FOX FHD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58441
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",UK: TCM (film)
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58442
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK:Life Time
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58443
+#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="Channels",UK: Comedy Central Extra
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58444
+#EXTINF:0 tvg-id="Sky1.uk" group-title="Channels",UK: Sky One HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58445
+#EXTINF:0 tvg-id="Sky2.uk" group-title="Channels",UK: SKY Two HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58446
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",UK: SKY Atlantic HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58447
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Channels",UK: Sky Cinema Premier HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58448
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Channels",UK: Sky Cinema Hits HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58449
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels",UK: Sky Cinema Action FHD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58450
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Channels",UK: Sky Cinema Family FHD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58451
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Channels",UK: Sky Cinema Comedy HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58452
+#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Channels",UK: Sky Cinema Disney FHD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58453
+#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Channels",UK: Sky Cinema Drama FHD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58454
+#EXTINF:0 tvg-id="SkyBrits.uk" group-title="Channels",UK: Sky Cinema Greats HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58455
+#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="Channels",UK: Sky Cinema Crime & Thriller HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58456
+#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="Channels",UK: Sky Cinema Sci-fi & Horror HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58457
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky Witness
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58458
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Channels",UK: Sky Cinema Select HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58459
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Channels",UK: Disney XD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58460
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",UK: Disney Junior
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58461
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",UK: Cartoonito
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58463
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",UK: Nick Jr
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58464
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",UK: Nickelodeon
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58465
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",UK: Nicktoons
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58466
+#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="Channels",UK: Nick Jr Peppa
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58467
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",UK: BoomeRang
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58468
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC CBeebies HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58469
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",UK: Baby TV
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58470
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Movies4Man1
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58471
+#EXTINF:0 tvg-id="Movies4Men.uk" group-title="Channels",UK: Movies 4 Men
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58472
+#EXTINF:0 tvg-id="MoviesTwentyFour.uk" group-title="Channels",UK: Movies24
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58473
+#EXTINF:0 tvg-id="CBSAction.uk" group-title="Channels",UK: CBS Action
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58474
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",UK: CBS Drama
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58475
+#EXTINF:0 tvg-id="CBSReality.uk" group-title="Channels",UK: CBS Reality
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58476
+#EXTINF:0 tvg-id="TrueMovies.uk" group-title="Channels",UK: True Movies 1
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58477
+#EXTINF:0 tvg-id="TrueMovies2.uk" group-title="Channels",UK: True Movies 2
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58478
+#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels",UK: Gold TV
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58479
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: HBO
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58480
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: HBO Comedy HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58481
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Star Bharat UK
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58482
+#EXTINF:0 tvg-id="Film4.uk" group-title="Channels",UK: Film 4 HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58483
+#EXTINF:0 tvg-id="Film4.uk" group-title="Channels",UK: Film 4
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58484
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",UK: Channel 4
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58485
+#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK: Alibi
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58486
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Star LifeOK (hindi)
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58487
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Star Gold UK
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58488
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="Channels",UK: Sony Max
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58489
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Channels",UK: SONY TV
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58490
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sony Sab UK
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58491
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: DW English
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58493
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Hunting Channel
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58494
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",UK: INVESTIGATION DISCOVERY
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58495
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Russia Today News
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58496
+#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",UK: MTV
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58497
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Channels",UK: VH1
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58498
+#EXTINF:0 tvg-id="MTVMusic.uk" group-title="Channels",UK: MTV Music
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58499
+#EXTINF:0 tvg-id="MTVBase.uk" group-title="Channels",UK: MTV Base
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58500
+#EXTINF:0 tvg-id="MTVHits.uk" group-title="Channels",UK: MTV Hits
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58501
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: MTV OMG
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58502
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: VH1 Classis
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58503
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: MTV XMAS
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58504
+#EXTINF:0 tvg-id="KeepItCountry.uk" group-title="Channels",UK: Keep It Country
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58505
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Kiss UK
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58506
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Box Hits HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58507
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",UK: Blaze
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58508
+#EXTINF:0 tvg-id="ChartshowHits.uk" group-title="Channels",UK: Chart Show Hits
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58509
+#EXTINF:0 tvg-id="TheVault.uk" group-title="Channels",UK: The Vault
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58510
+#EXTINF:0 tvg-id="Kerrang.uk" group-title="Channels",UK: Kerrang!
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58511
+#EXTINF:0 tvg-id="VICELAND.uk" group-title="Channels",UK: Viceland
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58512
+#EXTINF:0 tvg-id="StarzTV.uk" group-title="Channels",UK: STARZ TV
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58513
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Africa
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58514
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Ayiti
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58515
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Gospel
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58516
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Kitoko
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58517
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Naija
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58518
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Mziki
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58519
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Toca
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58520
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Tropical
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58521
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Latina
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58522
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Urban
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58523
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK: SKY SPORTS NEWS
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58524
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK: SKY SPORTS MIX
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58525
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK: SKY SPORTS MAIN EVENT HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58526
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK: SKY SPORTS FOOTBALL FHD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58527
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58528
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE (IRELAND)
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58529
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK: SKY SPORTS ACTION FHD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58530
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: SKY SPORTS ARENA
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58531
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: SKY SPORTS CRICKET FHD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58532
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",UK: SKY SPORTS GOLF FHD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58533
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK: SKY SPORTS F1 HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58534
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT Sport 1 HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58535
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT Sport 2 HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58536
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK: BT Sport 3 HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58537
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK: BT Sport ESPN HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58538
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 1
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58539
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 2
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58540
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 3
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58541
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 4
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58542
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 5
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58543
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="Channels",UK: Free Sports
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58544
+#EXTINF:0 tvg-id="eirSport1.ie" group-title="Channels",UK: Eir Sport 1
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58545
+#EXTINF:0 tvg-id="eirSport2.ie" group-title="Channels",UK: Eir Sport 2
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58546
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",UK: Manchester United TV
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58547
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",UK: Premier Sports
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58548
+#EXTINF:0 tvg-id="TravelChannel.uk" group-title="Channels",UK: Travel
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58549
+#EXTINF:0 tvg-id="Yesterday.uk" group-title="Channels",UK: Yesterday TV
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58550
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",UK: TLC
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58551
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",UK: Sky News HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58552
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BET Star
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58553
+#EXTINF:0 tvg-id="GoodFood.uk" group-title="Channels",UK: Good Food
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58554
+#EXTINF:0 tvg-id="Quest.uk" group-title="Channels",UK: Quest
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58555
+#EXTINF:0 tvg-id="PickTV.uk" group-title="Channels",UK: PICK
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58556
+#EXTINF:0 tvg-id="Really.uk" group-title="Channels",UK: REALLY
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58557
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",UK: ITVBE
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58558
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: China History Channel
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58559
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Russia Today Documetary
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58560
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",UK: Discovery Turbo
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58561
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",UK: Discovery Science
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58562
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58563
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery Channel
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58564
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",UK: Nat Geo Wild HD
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58565
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",UK: National Geographic Channel
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58566
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Channels",UK: Discovery History
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58567
+#EXTINF:0 tvg-id="DiscoveryHistoryPlus1.uk" group-title="Channels",UK: Discovery History +1
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58568
+#EXTINF:0 tvg-id="History.uk" group-title="Channels",UK: History Channel
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58569
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK: Animal Planet
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58570
+#EXTINF:0 tvg-id="Magic.uk" group-title="Channels",UK: Magic TV
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58571
+#EXTINF:0 tvg-id="GINXeSportsTV.uk" group-title="Channels",UK: Ginx Esports
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58572
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",UK: Dave
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58573
+#EXTINF:0 tvg-id="RacingUK.uk" group-title="Channels",UK: Racing UK (Full HD)
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58577
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS RACING
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58578
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",UK: EUROSPORT 1
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58579
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky Box Nation
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58580
+#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",UK: DRAMA
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58581
+#EXTINF:0 tvg-id="SkySports4.uk" group-title="Channels",UK: Sky Sports 4
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58582
+#EXTINF:0 tvg-id="SkySports5.uk" group-title="Channels",UK: Sky Sports 5
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58583
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EuroSport 2
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58584
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: ITV Box Office UK
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58585
+#EXTINF:0 tvg-id="FiveUSA.uk" group-title="Channels",UK: 5 USA
+http://companygroup.dyndns.org:19553/KwnQSEIfqP/F7TdAQKwg6/58586
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: The CW 11
+http://bdmsat.com:25461/murat34/murat34/77753
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: The Blaze
+http://bdmsat.com:25461/murat34/murat34/77754
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Teen Nick HD
+http://bdmsat.com:25461/murat34/murat34/77774
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TEEN BEATS
+http://bdmsat.com:25461/murat34/murat34/77775
+#EXTINF:0 tvg-id="TCM.us" group-title="Channels",US: TCM
+http://bdmsat.com:25461/murat34/murat34/77776
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TBS WEST
+http://bdmsat.com:25461/murat34/murat34/77777
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TBS Pacific
+http://bdmsat.com:25461/murat34/murat34/77778
+#EXTINF:0 tvg-id="TBSHD.us" group-title="Channels",US: TBS FHD
+http://bdmsat.com:25461/murat34/murat34/77779
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TBS EAST
+http://bdmsat.com:25461/murat34/murat34/77780
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TBN
+http://bdmsat.com:25461/murat34/murat34/77781
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Tastemade
+http://bdmsat.com:25461/murat34/murat34/77782
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SYFY WEST
+http://bdmsat.com:25461/murat34/murat34/77783
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SYFY Pacific
+http://bdmsat.com:25461/murat34/murat34/77784
+#EXTINF:0 tvg-id="SyfyHD.us" group-title="Channels",US: SYFY HD
+http://bdmsat.com:25461/murat34/murat34/77785
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SYFY EAST
+http://bdmsat.com:25461/murat34/murat34/77786
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Sundance HD
+http://bdmsat.com:25461/murat34/murat34/77787
+#EXTINF:0 tvg-id="StarzWestHD.us" group-title="Channels",US: Starz West FHD
+http://bdmsat.com:25461/murat34/murat34/77788
+#EXTINF:0 tvg-id="StarzKids-FamilyHD.us" group-title="Channels",US: Starz Kids & Family HD
+http://bdmsat.com:25461/murat34/murat34/77789
+#EXTINF:0 tvg-id="StarzinBlackHD.us" group-title="Channels",US: STARZ IN BLACK HD
+http://bdmsat.com:25461/murat34/murat34/77790
+#EXTINF:0 tvg-id="StarzEast.us" group-title="Channels",US: Starz FHD
+http://bdmsat.com:25461/murat34/murat34/77791
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Starz Encore Western FHD
+http://bdmsat.com:25461/murat34/murat34/77792
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Starz Encore Suspense FHD
+http://bdmsat.com:25461/murat34/murat34/77793
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="Channels",US: Starz Encore FHD
+http://bdmsat.com:25461/murat34/murat34/77794
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Starz Encore Family FHD
+http://bdmsat.com:25461/murat34/murat34/77795
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Starz Encore East
+http://bdmsat.com:25461/murat34/murat34/77796
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Starz Encore Classic FHD
+http://bdmsat.com:25461/murat34/murat34/77797
+#EXTINF:0 tvg-id="StarzEncoreActionHD.us" group-title="Channels",US: Starz Encore Action HD
+http://bdmsat.com:25461/murat34/murat34/77798
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="Channels",US: Starz Edge FHD
+http://bdmsat.com:25461/murat34/murat34/77799
+#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="Channels",US: Starz Comedy FHD
+http://bdmsat.com:25461/murat34/murat34/77800
+#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="Channels",US: Starz Cinema FHD
+http://bdmsat.com:25461/murat34/murat34/77801
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Starz Cinema East HD
+http://bdmsat.com:25461/murat34/murat34/77802
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Starz Black FHD
+http://bdmsat.com:25461/murat34/murat34/77803
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: STARZ (East) HD
+http://bdmsat.com:25461/murat34/murat34/77804
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: START TV
+http://bdmsat.com:25461/murat34/murat34/77805
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: STAR WORLD HD
+http://bdmsat.com:25461/murat34/murat34/77806
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: STAR MOVIES HD
+http://bdmsat.com:25461/murat34/murat34/77807
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SHOWTIME WOMEN
+http://bdmsat.com:25461/murat34/murat34/77832
+#EXTINF:0 tvg-id="ShowtimeShowcaseHD.us" group-title="Channels",US: Showtime Showcase FHD
+http://bdmsat.com:25461/murat34/murat34/77833
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SHOWTIME PACIFIC HD
+http://bdmsat.com:25461/murat34/murat34/77834
+#EXTINF:0 tvg-id="ShowtimeNextHD.us" group-title="Channels",US: SHOWTIME NEXT
+http://bdmsat.com:25461/murat34/murat34/77835
+#EXTINF:0 tvg-id="ShowtimeHDEast.us" group-title="Channels",US: Showtime FHD
+http://bdmsat.com:25461/murat34/murat34/77836
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SHOWTIME FAMILY ZONE FHD
+http://bdmsat.com:25461/murat34/murat34/77837
+#EXTINF:0 tvg-id="ShowtimeExtremeHD.us" group-title="Channels",US: Showtime Extreme FHD
+http://bdmsat.com:25461/murat34/murat34/77838
+#EXTINF:0 tvg-id="ShowtimeBeyondHD.us" group-title="Channels",US: SHOWTIME BEYOND
+http://bdmsat.com:25461/murat34/murat34/77839
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SHOWTIME (West) HD
+http://bdmsat.com:25461/murat34/murat34/77840
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SHOWTIME (East) HD
+http://bdmsat.com:25461/murat34/murat34/77841
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PBS Kids HD
+http://bdmsat.com:25461/murat34/murat34/77867
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PBS Kids (East) HD
+http://bdmsat.com:25461/murat34/murat34/77868
+#EXTINF:0 tvg-id="PBSNET.us" group-title="Channels",US: PBS HD
+http://bdmsat.com:25461/murat34/murat34/77869
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PARAMOUNT NETWORK FHD
+http://bdmsat.com:25461/murat34/murat34/77870
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PARAMOUNT Channel
+http://bdmsat.com:25461/murat34/murat34/77871
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Washington FHD
+http://bdmsat.com:25461/murat34/murat34/77872
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Oregon FHD
+http://bdmsat.com:25461/murat34/murat34/77873
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Networks HD
+http://bdmsat.com:25461/murat34/murat34/77874
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Pac-12 Mountain
+http://bdmsat.com:25461/murat34/murat34/77875
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Los Angeles FHD
+http://bdmsat.com:25461/murat34/murat34/77876
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Bay Area
+http://bdmsat.com:25461/murat34/murat34/77877
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Arizona
+http://bdmsat.com:25461/murat34/murat34/77878
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: OXYGEN WEST
+http://bdmsat.com:25461/murat34/murat34/77879
+#EXTINF:0 tvg-id="OxygenHD.us" group-title="Channels",US: Oxygen HD
+http://bdmsat.com:25461/murat34/murat34/77880
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: OXYGEN EAST
+http://bdmsat.com:25461/murat34/murat34/77881
+#EXTINF:0 tvg-id="OWNHD.us" group-title="Channels",US: OWN FHD
+http://bdmsat.com:25461/murat34/murat34/77882
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: OUTSIDE HD
+http://bdmsat.com:25461/murat34/murat34/77883
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: OUTERMAX
+http://bdmsat.com:25461/murat34/murat34/77884
+#EXTINF:0 tvg-id="OutdoorChannel.us" group-title="Channels",US: Outdoor Channel HD
+http://bdmsat.com:25461/murat34/murat34/77885
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ONE AMERICAN NEWS NETWORK
+http://bdmsat.com:25461/murat34/murat34/77886
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ONE AMERICA NEWS
+http://bdmsat.com:25461/murat34/murat34/77887
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Olympic Channel FHD
+http://bdmsat.com:25461/murat34/murat34/77888
+#EXTINF:0 tvg-id="Nicktoons.us" group-title="Channels",US: Nicktoons HD
+http://bdmsat.com:25461/murat34/murat34/77889
+#EXTINF:0 tvg-id="NickelodeonWest.us" group-title="Channels",US: nickelodeon WEST
+http://bdmsat.com:25461/murat34/murat34/77890
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: nickelodeon KIDS
+http://bdmsat.com:25461/murat34/murat34/77891
+#EXTINF:0 tvg-id="NickelodeonEastHD.us" group-title="Channels",US: nickelodeon HD
+http://bdmsat.com:25461/murat34/murat34/77892
+#EXTINF:0 tvg-id="NickelodeonEast.us" group-title="Channels",US: nickelodeon EAST
+http://bdmsat.com:25461/murat34/murat34/77893
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NICK MUSIC
+http://bdmsat.com:25461/murat34/murat34/77894
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Nick Junior HD
+http://bdmsat.com:25461/murat34/murat34/77895
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Nick Junior EAST
+http://bdmsat.com:25461/murat34/murat34/77896
+#EXTINF:0 tvg-id="NatGeoWILD.us" group-title="Channels",US: NAT GEO Wild HD
+http://bdmsat.com:25461/murat34/murat34/78056
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NAT GEO PEOPLE
+http://bdmsat.com:25461/murat34/murat34/78057
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NAT GEO Pacific
+http://bdmsat.com:25461/murat34/murat34/78058
+#EXTINF:0 tvg-id="NationalGeographicChannelHD.us" group-title="Channels",US: NAT GEO HD
+http://bdmsat.com:25461/murat34/murat34/78059
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NAT GEO EAST
+http://bdmsat.com:25461/murat34/murat34/78060
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MOTOR TREND
+http://bdmsat.com:25461/murat34/murat34/78076
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Investigation Discovery WEST
+http://bdmsat.com:25461/murat34/murat34/78097
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Investigation Discovery Pacific HD
+http://bdmsat.com:25461/murat34/murat34/78098
+#EXTINF:0 tvg-id="InvestigationDiscovery.us" group-title="Channels",US: Investigation Discovery FHD
+http://bdmsat.com:25461/murat34/murat34/78099
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Investigation Discovery EAST
+http://bdmsat.com:25461/murat34/murat34/78100
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Investgation Discovery HD
+http://bdmsat.com:25461/murat34/murat34/78101
+#EXTINF:0 tvg-id="HBOZoneHD.us" group-title="Channels",US: HBO Zone FHD
+http://bdmsat.com:25461/murat34/murat34/78118
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HBO Sinature
+http://bdmsat.com:25461/murat34/murat34/78119
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HBO Pacific
+http://bdmsat.com:25461/murat34/murat34/78120
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HBO HD SIGNATURE
+http://bdmsat.com:25461/murat34/murat34/78121
+#EXTINF:0 tvg-id="HBOHDEast.us" group-title="Channels",US: HBO HD
+http://bdmsat.com:25461/murat34/murat34/78122
+#EXTINF:0 tvg-id="HBOFamilyEast.us" group-title="Channels",US: HBO Family FHD
+http://bdmsat.com:25461/murat34/murat34/78123
+#EXTINF:0 tvg-id="HBOComedyHD.us" group-title="Channels",US: HBO COMEDY FHD
+http://bdmsat.com:25461/murat34/murat34/78124
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HBO 2 West FHD
+http://bdmsat.com:25461/murat34/murat34/78125
+#EXTINF:0 tvg-id="HBO2East.us" group-title="Channels",US: HBO 2 FHD
+http://bdmsat.com:25461/murat34/murat34/78126
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HBO 2 East HD
+http://bdmsat.com:25461/murat34/murat34/78127
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HBO 2 COMEDY
+http://bdmsat.com:25461/murat34/murat34/78128
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HBO (West) HD
+http://bdmsat.com:25461/murat34/murat34/78129
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HBO (East) HD
+http://bdmsat.com:25461/murat34/murat34/78130
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOXX HD
+http://bdmsat.com:25461/murat34/murat34/78158
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX Washington
+http://bdmsat.com:25461/murat34/murat34/78159
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX Waco
+http://bdmsat.com:25461/murat34/murat34/78160
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX Tampa
+http://bdmsat.com:25461/murat34/murat34/78161
+#EXTINF:0 tvg-id="DIYNetworkHD.us" group-title="Channels",US: DIY Network HD
+http://bdmsat.com:25461/murat34/murat34/78317
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: DIY HD
+http://bdmsat.com:25461/murat34/murat34/78318
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney XD Pacific
+http://bdmsat.com:25461/murat34/murat34/78319
+#EXTINF:0 tvg-id="DisneyXD.us" group-title="Channels",US: Disney XD FHD
+http://bdmsat.com:25461/murat34/murat34/78320
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney XD EAST
+http://bdmsat.com:25461/murat34/murat34/78321
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney Junior Pacific HD
+http://bdmsat.com:25461/murat34/murat34/78322
+#EXTINF:0 tvg-id="DisneyJuniorHD.us" group-title="Channels",US: Disney Jr HD
+http://bdmsat.com:25461/murat34/murat34/78323
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney JR EAST
+http://bdmsat.com:25461/murat34/murat34/78324
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney Channel WEST
+http://bdmsat.com:25461/murat34/murat34/78325
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney Channel Paficic
+http://bdmsat.com:25461/murat34/murat34/78326
+#EXTINF:0 tvg-id="DisneyChannelHD.us" group-title="Channels",US: Disney Channel FHD
+http://bdmsat.com:25461/murat34/murat34/78327
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney Channel EAST
+http://bdmsat.com:25461/murat34/murat34/78328
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery TLC Pacific
+http://bdmsat.com:25461/murat34/murat34/78329
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery TLC
+http://bdmsat.com:25461/murat34/murat34/78330
+#EXTINF:0 tvg-id="ScienceHD.us" group-title="Channels",US: Discovery Science FHD
+http://bdmsat.com:25461/murat34/murat34/78331
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery Pacific
+http://bdmsat.com:25461/murat34/murat34/78332
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery Life HD
+http://bdmsat.com:25461/murat34/murat34/78333
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery H&H
+http://bdmsat.com:25461/murat34/murat34/78334
+#EXTINF:0 tvg-id="DiscoveryFamilyChannel.us" group-title="Channels",US: Discovery Family HD
+http://bdmsat.com:25461/murat34/murat34/78335
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery FAMILIA HD
+http://bdmsat.com:25461/murat34/murat34/78336
+#EXTINF:0 tvg-id="Discovery.us" group-title="Channels",US: Discovery Channel FHD
+http://bdmsat.com:25461/murat34/murat34/78337
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery Channel EAST
+http://bdmsat.com:25461/murat34/murat34/78338
+#EXTINF:0 tvg-id="DestinationAmericaHD.us" group-title="Channels",US: Destination America HD
+http://bdmsat.com:25461/murat34/murat34/78339
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: DANCE EDM
+http://bdmsat.com:25461/murat34/murat34/78340
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW US HD
+http://bdmsat.com:25461/murat34/murat34/78341
+#EXTINF:0 tvg-id="WDCWWashingtonDCCW.us" group-title="Channels",US: CW HD
+http://bdmsat.com:25461/murat34/murat34/78342
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW 11
+http://bdmsat.com:25461/murat34/murat34/78343
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CTV sci-fi FHD
+http://bdmsat.com:25461/murat34/murat34/78344
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CTV DRAMA FHS
+http://bdmsat.com:25461/murat34/murat34/78345
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CTV COMEDY EAST
+http://bdmsat.com:25461/murat34/murat34/78346
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Crime+ Investigation FHD
+http://bdmsat.com:25461/murat34/murat34/78347
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: COZI TV HD
+http://bdmsat.com:25461/murat34/murat34/78348
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: COWBOY Channel
+http://bdmsat.com:25461/murat34/murat34/78349
+#EXTINF:0 tvg-id="CookingChannel.us" group-title="Channels",US: COOKING Channel FHD
+http://bdmsat.com:25461/murat34/murat34/78350
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: COMET TV
+http://bdmsat.com:25461/murat34/murat34/78351
+#EXTINF:0 tvg-id="ComedyCentralHD.us" group-title="Channels",US: Comedy Central FHD
+http://bdmsat.com:25461/murat34/murat34/78352
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: COMEDY CENTRAL EAST
+http://bdmsat.com:25461/murat34/murat34/78353
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS BALTIMORE MD WJZ
+http://bdmsat.com:25461/murat34/murat34/78499
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Baltimore HD
+http://bdmsat.com:25461/murat34/murat34/78500
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS ATLANTA GA WGCL
+http://bdmsat.com:25461/murat34/murat34/78501
+#EXTINF:0 tvg-id="CartoonNetworkHD.us" group-title="Channels",US: Cartoon Network HD
+http://bdmsat.com:25461/murat34/murat34/78508
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CARTOON NETWORK (East) HD
+http://bdmsat.com:25461/murat34/murat34/78509
+#EXTINF:0 tvg-id="Boomerang.us" group-title="Channels",US: Boomerang HD
+http://bdmsat.com:25461/murat34/murat34/78525
+#EXTINF:0 tvg-id="AMC.us" group-title="Channels",US: AMC HD
+http://bdmsat.com:25461/murat34/murat34/78559
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC ORLANDO FL WFTV
+http://bdmsat.com:25461/murat34/murat34/78599
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",UK: AMC From BT
+http://bdmsat.com:25461/murat34/murat34/79471
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",UK: AMC HD
+http://bdmsat.com:25461/murat34/murat34/79472
+
